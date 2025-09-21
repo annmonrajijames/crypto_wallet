@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344091249752",
+    "project_id": "crypto-wallet-4de58",
+    "storage_bucket": "crypto-wallet-4de58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344091249752:android:35996f0fe17fdf545b4e2d",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP3Xe6U0fEyPTmTSPbdixZBfwgOAIQ1A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
